@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022427230431",
+    "project_id": "pushojt-928a3",
+    "storage_bucket": "pushojt-928a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022427230431:android:2c0687b55552169387b96a",
+        "android_client_info": {
+          "package_name": "com.example.naverproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022427230431-a69quhr69dqlsgt2kmkuus1430mdqjf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxzC7kL3tRX2oRUI7ekIZVEEhj3QyMgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022427230431-a69quhr69dqlsgt2kmkuus1430mdqjf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
